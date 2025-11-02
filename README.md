@@ -17,7 +17,7 @@
 
 <img width="863" height="485" alt="fdc15694-0f37-477b-a147-779c894f5057" src="https://github.com/user-attachments/assets/49ba279b-72e8-4001-9972-25b8fdf3fea3" />
 
-（遭受bug重创的gtnh2.8存档的末地 👎）（这行不是ai写的）
+（遭受bug重创的gtnh2.8.0存档的末地 👎）（这行不是ai写的）
 
 
 ---
