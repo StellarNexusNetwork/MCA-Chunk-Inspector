@@ -1,4 +1,4 @@
-<img width="863" height="485" alt="fdc15694-0f37-477b-a147-779c894f5057" src="https://github.com/user-attachments/assets/ca463361-849e-405b-9999-7c8b7db0d49a" /># ⚠️ 注意！使用风险提示
+# ⚠️ 注意！使用风险提示
 
 - 本脚本由 **AI 生成**，可能存在未知 bug  
 - 可能 **造成未知后果**  
@@ -13,12 +13,9 @@
 一个用于读取特大 Minecraft 区块文件 (`.mca`) 的 Python 工具。  
 它可以从 region 文件中提取并解析单个区块（chunk），并在数据损坏时尽量恢复。
 
-<img width="863" height="485" alt="fdc15694-0f37-477b-a147-779c894f5057" src="https://github.com/user-attachments/assets/470eb888-2980-441a-9702-a52f97f883da" />
-<img width="2402" height="133" alt="3b230f18d3b9ab78c8895d6b37b9e2b5" src="https://github.com/user-attachments/assets/bf2a2cf9-65a3-47f7-a8c9-a3b17b55e1fa" />
+<img width="2402" height="133" alt="3b230f18d3b9ab78c8895d6b37b9e2b5" src="https://github.com/user-attachments/assets/a19b0c2c-d94a-4708-bb4f-dc23826bdf93" />
 
-<img width="863" height="485" alt="fdc15694-0f37-477b-a147-779c894f5057" src="https://github.com/user-attachments/assets/f99920f9-bb45-408f-9b0a-04667d7e5c42" />
-<img width="2402" height="133" alt="3b230f18d3b9ab78c8895d6b37b9e2b5" src="https://github.com/user-attachments/assets/9e61a579-8c18-459a-86f4-c0c3edd738cd" />
-
+<img width="863" height="485" alt="fdc15694-0f37-477b-a147-779c894f5057" src="https://github.com/user-attachments/assets/49ba279b-72e8-4001-9972-25b8fdf3fea3" />
 
 （遭受bug重创的gtnh2.8存档的末地 👎）（这行不是ai写的）
 
